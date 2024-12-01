@@ -17,3 +17,9 @@ The **Restaurant Management System (RMS)** is designed to help restaurants manag
 - **Graphical User Interface**: Built using Python’s Tkinter module.
 - **Database**: Uses SQLite3 for storing restaurant configurations, orders, and billing data. No internet connection is required.
 - **Backend Logic**: The application handles order creation, kitchen communication, and bill generation locally.
+
+## Requirements
+- SQLite3
+- pip install tkinter
+- pip install pillow
+- pip install beautifulsoup4
