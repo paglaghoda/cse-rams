@@ -1,6 +1,7 @@
 # Restaurant Management System 
 ### Team CodeByte (VIT Bhopal)
 ### Made using Python, SQLite3, TKinter
+### To Run the Program, Go to cse-rams/components/rms.py and Run
 
 The **Restaurant Management System (RMS)** is designed to help restaurants manage their daily operations efficiently. It provides an easy way to handle orders, reservations, and billing, eliminating the need for outdated bookkeeping methods. The system allows restaurants to store configurations, manage menus, and generate orders and bills.
 
